@@ -146,7 +146,7 @@ Edit
 Area       : 1200 sqft
 BHK        : 3
 Bathrooms  : 2
-Location   : Whitefield
+Location   : Hyderabad
 ➡️ Predicted Price: ₹85.3 Lakhs
 
 🧠 Machine Learning Model
@@ -161,7 +161,7 @@ Pickled model served via Flask
 🤝 Contributors
 👤 Nithin Talarini
 GitHub: @talarinithin
-Email: nithintalarini@example.com (replace if needed)
+Email: talarinithin@gmail.com 
 
 📌 License
 This project is licensed under the MIT License.
@@ -169,17 +169,6 @@ This project is licensed under the MIT License.
 ⭐️ Star the Repository
 If you like this project, give it a ⭐️ to support the developer!
 
-yaml
-Copy
-Edit
 
----
 
-Would you like me to:
-
-- Create and upload this file for you?
-- Include a license file (`MIT` or `Apache`)?
-- Add deployment links if you're using Vercel/Render?
-
-Let me know and I can assist step by step.
 
